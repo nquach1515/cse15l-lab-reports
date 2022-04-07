@@ -9,4 +9,4 @@
 
 Here is an image of visual studio code just like my index page
 
-![image](./vscode.png)
+![image](./cse15l-lab-report-1/assets/vscode.png)

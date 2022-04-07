@@ -8,7 +8,7 @@
 
 [Google Link](https://google.com/)
 
-![VSCode Image](./vscode.png)
+![VSCode Image](./cse15l-lab-report-1/assets/vscode.png)
 
 > Hello Blockquote
 
