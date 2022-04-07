@@ -1,12 +1,12 @@
 <a>
 
-# Remote Access
+# Lab Report 1 - Remote Access
 
 ## Installing Visual Studio Code
 
 ![vscode](./assets/vscode.png) <br>
 
-To install Visual Studio Code, we need to visit the website, https://code.visualstudio.com/. Then, follow the instructions to download and install it on your computer. Make sure to download the right version!
+To install Visual Studio Code, we need to visit [Visual Studio Code](https://code.visualstudio.com/). Then, follow the instructions to download and install it on your computer. Make sure to download the right version!
 <br>
 <br>
 
