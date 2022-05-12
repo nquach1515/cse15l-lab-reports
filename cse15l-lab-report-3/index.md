@@ -45,11 +45,12 @@ This is the link for the [new commit](https://github.com/nquach1515/cse15l-git-s
 This screenshot above shows how to copied the whole directory of MarkdownParse to `ieng6` by using
 `scp -r . ieng6:~/markdown-parse`
 
-![testing](./assets/testing%20files.png)
+![testing](./assets/ssh%20log%20in.png)
 
-This screenshot above shows me logging into my ieng6 and testing the MarkdownParse code.
+This screenshot above shows me logging into my ieng6 and testing the MarkdownParse code with my 
+MarkdownParseTest. However, there was a compile error which made the code unable to run.
 
-![testing one line](./assets/test%20one%20line.png)
+![testing one line](./assets/one_line_222.png)
 
 This screenshot above shows how I was able to copy the whole directory of MarkdownParse to `ieng6`
 and was able to test the code in one line. There was an error with JUnit, but that 
