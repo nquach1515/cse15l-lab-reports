@@ -10,7 +10,7 @@
 ## Snippet 1
 
 What *should* Snippet 1 produce? <br>
-``[`google.com]``
+``[`google.com, google.com, ucsd.edu]``
 
 ### MarkdownParseTest for Snippet 1
 ![snippet 1 test](./assets/test_snippet_1.png)
